@@ -55,10 +55,7 @@
           "nes": "1.2.0",
           "serve": "1.2.0"
     },
-     "bundledDependencies": {
-        "nes": "6.4.0"
-    },
-    
+
     "repository": {
         "type": "git",
         "url": "https://github.com/adriano-di-giovanni/node-df.git"
